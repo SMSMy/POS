@@ -1,0 +1,16 @@
+[package]
+name = "pos_calc"
+version = "0.1.0"
+edition = "2021"
+description = "مكتبة Rust لتسريع حسابات نظام نقاط البيع"
+
+[lib]
+name = "pos_calc"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = { version = "0.22", features = ["extension-module"] }
+
+[profile.release]
+lto = true
+opt-level = 3

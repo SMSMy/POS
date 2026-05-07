@@ -1,0 +1,1 @@
+C:\Users\hshli\Downloads\aignt4\new\pos_system\ -\ Copy\pos_system\ -\ Copy\rust_extensions\target\release\pos_calc.dll: C:\Users\hshli\Downloads\aignt4\new\pos_system\ -\ Copy\pos_system\ -\ Copy\rust_extensions\src\lib.rs
